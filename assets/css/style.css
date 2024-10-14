@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Inter";
-  src: url(./fonts/Inter-VariableFont_slnt,wght.ttf) format("truetype");
+  src: url(./fonts/Inter-VariableFont_slntwght.ttf) format("truetype");
 }
 
 body {
@@ -25,28 +25,21 @@ a {
 }
 
 .card {
-  background-color: #1F1F1F;
+  background-color: #1f1f1f;
   padding-block: 2.5rem;
   padding-inline: 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  text-align: center;
   border-radius: 1rem;
   width: min(88%, 24rem);
 }
 
-@media(width < 768px) {
-  .card {
-    padding-block: 1.5rem;
-    padding-inline: 1.5rem;
-    margin-inline: auto;
-  }
-}
-
 .card__avatar img {
   width: 88px;
-  border-radius: calc(1px /0);
+  border-radius: calc(1px / 0);
+  margin-inline: auto;
 }
 
 .card__name {
@@ -81,6 +74,14 @@ a {
   padding-block: 0.75rem;
   border-radius: 0.5rem;
   transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
+}
+
+@media (width < 768px) {
+  .card {
+    padding-block: 1.5rem;
+    padding-inline: 1.5rem;
+    margin-inline: auto;
+  }
 }
 
 @media (any-hover: hover) {

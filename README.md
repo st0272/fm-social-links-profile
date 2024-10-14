@@ -30,7 +30,7 @@ Mobile
 ### Links
 
 - Solution URL: [Social links profile solution](https://github.com/st0272/fm-social-links-profile/)
-- Live Site URL: [Product social links profile solution](https://github.com/st0272/fm-social-links-profile/)
+- Live Site URL: [Product social links profile solution](https://st0272.github.io/fm-social-links-profile/)
 
 ## My process
 
