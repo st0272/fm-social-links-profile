@@ -4,7 +4,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-- [Frontend Mentor - Social links profile challenge solution](#frontend-mentor---Social links profile challenge-solution)
+- [Frontend Mentor - Social links profile solution](#frontend-mentor---social-links-profile-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
